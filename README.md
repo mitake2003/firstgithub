@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mitakedon
+- 👋 Hi, I’m @suraj mitake
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
